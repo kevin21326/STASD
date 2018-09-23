@@ -7,6 +7,7 @@
 3. Create and Use [GitHub](https://github.com/)
    - [Tutorial](https://git-scm.com/book/en/v2)
    - [Git command Cheat heet](https://github.com/joshnh/Git-Commands)
+4. Markdown and README.md
    - [A template to make good README.md](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
    - [A starter template for data science projects](https://github.com/Statoil/data-science-template/)
 
