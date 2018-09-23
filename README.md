@@ -43,13 +43,11 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 ## Author / Teacher
 
 * 洪振倫 Kevin Hong - NTU Economics
-
 * Pecu Tsai - Teacher
 
+## License
 
-### 
-
-
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kevinkevin556/STASD/blob/master/LICENSE) file for details.
 
  
 
