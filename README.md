@@ -1,13 +1,14 @@
 # 107-1  Special Topics on Advanced Software Development 
 The repository contains the in-class practice and the take-home project for the NTU course "Special Topics on Advanced Software Development " (STASD) in 107-1 semester. The dataset from 91App is used as the course material in order to form the sense of data analysis and the know-how for the New Retail.  The basic skills for the data producing, mining, and wrangling such as web crawler, text mining, Apriori algorithm, machine learning and data visualization are introduced in the following lectures.
 
+* Course [Syllabus](https://nol.ntu.edu.tw/nol/coursesearch/print_table.php?course_id=H03%2005010&class=&dpt_code=H020&ser_no=12205&semester=107-1&lang=CH)
 * STASD Course [Gitbook](https://pecu.gitbooks.io/python_/content/)
 
 * STASD Course [Github](https://github.com/NTU-CSX-Project/107-1PythonSampleCode)
 
 ## Getting Started 
 
-For those who may want to replicate the my work or take them for reference, you can simply go through the following steps:
+For those who may want to replicate the work or take them for reference, you can simply go through the steps below:
 
 ### Step 1 . Clone the repository
 
@@ -26,8 +27,8 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 1. 91App Dataset First Meet (Anaconda, Jupyter Notebook, Pandas) 
 
-* In-class Practice
-* Take-Home Project 
+* In-class Practice: Building Anaconda, Jupyter Notebook environment and create lecture Github
+* Take-Home Project : [week_1_first_meet.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%201/week_1_first_meet.ipynb)
 
 ### Week 2. Web Crawler and Reaching Climate Data
 
