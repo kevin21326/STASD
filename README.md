@@ -35,6 +35,16 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 * In-class Practice
 * Take-Home Project
 
+### Week 3.
+
+- In-class Practice
+- Take-Home Project
+
+## Author / Teacher
+
+* 洪振倫 Kevin Hong - NTU Economics
+
+* Pecu Tsai - Teacher
 
 
 ### 
