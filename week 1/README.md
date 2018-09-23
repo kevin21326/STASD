@@ -1,4 +1,4 @@
-# Week 1
+# Week 1 91App Dataset First Meet (Anaconda, Jupyter Notebook, Pandas)
 
 ## In-Class Practice
 
