@@ -18,3 +18,7 @@
 1. Practice [Pandas](http://pandas.pydata.org/pandas-docs/stable/) (Slice, Filter,  Groupby and Plot)
 2. Explore 91App dataset
 
+## Reference
+
+1. Week 1 Lecture [github](https://github.com/NTU-CSX-Project/107-1PythonSampleCode/tree/master/week_1)
+
