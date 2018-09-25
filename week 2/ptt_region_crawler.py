@@ -14,6 +14,8 @@ def get_post_num(region, date, verbose=True, init_index=None, return_index=False
 		i = init_index
 		current_year = get_page_year(region, init_index)
 
+	if verbose == True:
+		print_target_info(region, date)
 	
 	target_post_num = 0
 	is_year_crossed = False
@@ -135,6 +137,9 @@ def get_page_year_info(posts_soup, current_year, is_year_crossed):
 		years = (last_year, current_year)
 		return (years, get_page_cross_index(posts_soup))
 
+def print_target_info(region, date):
+	print("\n[[ %s, %s ]]", region, str(date))
+	print("=====")
 
 def print_current_stage(region, index, year_info):
 	url_format = "https://www.ptt.cc/bbs/%s/index%s.html"
