@@ -35,10 +35,10 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 * In-class Practice: [week_2_inclass_practice](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_inclass_practice.ipynb)
 * Take-Home Project: [week_2_takehome_project](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_takehome_project.ipynb)
 
-### Week 3.
+### Week 3. E-commerce Segmentation and Data Visualization
 
-- In-class Practice
-- Take-Home Project
+- In-class Practice: [week_3_inclass_practice](https://github.com/kevinkevin556/STASD/blob/master/week%203/week_3_inclass_practice.ipynb)
+- Take-Home Project: week_3_takehome_project
 
 ## Author / Teacher
 

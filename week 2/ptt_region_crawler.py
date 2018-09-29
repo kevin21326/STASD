@@ -2,6 +2,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import re
+import time
 
 def get_post_num(region, date, verbose=True, init_index=None, return_index=False):
 	date_timestamp = pd.Timestamp(date)
@@ -55,10 +56,18 @@ def get_post_num(region, date, verbose=True, init_index=None, return_index=False
 ### Auxiliary functions ###
 
 # general function in return of BeautifulSoup object
-def get_soup(url): 
-	page = requests.get(url)
-	soup = BeautifulSoup(page.text, 'lxml')
-	return soup
+def get_soup(url, n_try=10, wait=10): 
+	for i in range(n_try):
+		try:
+			page = requests.get(url)
+			soup = BeautifulSoup(page.text, 'lxml')
+			return soup
+		except Exception as e:
+			incident = e
+			time.sleep(wait)
+			continue
+	print(repr(e))
+	return None
 
 # get BeautifulSoup object for ptt pages
 def get_page_soup(site, index = ''): 
@@ -73,11 +82,20 @@ def get_posts_soup(site, index):
 	return posts_soup
 
 # get the maximum index for the ptt block
-def get_max_index(site): 
-	previous_page_url = get_page_soup(site).find('a', string='‹ 上頁')['href']
-	pattern = re.compile('\d+')
-	max_index = int(pattern.search(previous_page_url).group(0))+1
-	return max_index
+def get_max_index(site, n_try = 10, wait = 10): 
+	for i in range(n_try):
+		try:
+			previous_page_url = get_page_soup(site).find('a', string='‹ 上頁')['href']
+			pattern = re.compile('\d+')
+			max_index = int(pattern.search(previous_page_url).group(0))+1
+			return max_index
+		except Exception as e:
+			incident = e
+			time.sleep(wait)
+			continue
+	print(repr(incident))
+	return None
+
 
 def get_ymd(year, date):
 	return str(year) +'/'+ date
@@ -88,19 +106,34 @@ def get_timestamp(year=None, date=None, ymd=None):
 	else:
 		return pd.Timestamp(ymd)
 
-def get_page_year(site, index):
-	posts_soup = get_posts_soup(site, index)
-	for post in posts_soup[::-1]:
+def get_page_year(site, index, n_try=10, wait=10):
+	soup_correctly_fetched = False
+	for i in range(n_try):
 		try:
-			post_url = 'https://www.ptt.cc' + post.find('a')['href']
-			post_soup = get_soup(post_url)
-			article_metalines = post_soup.find('div', {'id':'main-content'}).find_all('div', {'class':'article-metaline'})
-			post_year_string = article_metalines[2].find('span', {'class':'article-meta-value'}).string
-			year = int(post_year_string.split(' ')[-1])
+			posts_soup = get_posts_soup(site, index)
+			_ = (e for e in posts_soup)
+			soup_correctly_fetched = True
+			break
 		except Exception as e:
+			incident = e
+			time.sleep(wait)
 			continue
-		else:
-			return year
+
+	if soup_correctly_fetched:
+		for post in posts_soup[::-1]:
+			try:
+				post_url = 'https://www.ptt.cc' + post.find('a')['href']
+				post_soup = get_soup(post_url)
+				article_metalines = post_soup.find('div', {'id':'main-content'}).find_all('div', {'class':'article-metaline'})
+				post_year_string = article_metalines[2].find('span', {'class':'article-meta-value'}).string
+				year = int(post_year_string.split(' ')[-1])
+			except Exception as e:
+				continue
+			else:
+				return year
+	else:
+		print(repr(incident))
+	
 	return None
 
 
@@ -138,7 +171,7 @@ def get_page_year_info(posts_soup, current_year, is_year_crossed):
 		return (years, get_page_cross_index(posts_soup))
 
 def print_target_info(region, date):
-	print("\n[[ %s, %s ]]", region, str(date))
+	print("\n[[ %s, %s ]]"%(region, str(date)))
 	print("=====")
 
 def print_current_stage(region, index, year_info):
