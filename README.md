@@ -32,13 +32,18 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 2. Web Crawler and Reaching Climate Data
 
-* In-class Practice: [week_2_inclass_practice](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_inclass_practice.ipynb)
-* Take-Home Project: [week_2_takehome_project](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_takehome_project.ipynb)
+* In-class Practice: [week_2_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_inclass_practice.ipynb)
+* Take-Home Project: [week_2_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%202/week_2_takehome_project.ipynb)
 
 ### Week 3. E-commerce Segmentation and Data Visualization
 
-- In-class Practice: [week_3_inclass_practice](https://github.com/kevinkevin556/STASD/blob/master/week%203/week_3_inclass_practice.ipynb)
-- Take-Home Project: [week_3_takehome_project](https://github.com/kevinkevin556/STASD/blob/master/week%203/week_3_takehome_project.ipynb)
+- In-class Practice: [week_3_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%203/week_3_inclass_practice.ipynb)
+- Take-Home Project: [week_3_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%203/week_3_takehome_project.ipynb)
+
+### Week 4. Text Mining and Financial Report Analysis
+
+* In-class Practice:[week_4_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_inclass_practice.ipynb)
+* Take-Home Project:[week_4_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_takehome_project.ipynb)
 
 ## Author / Teacher
 
