@@ -44,6 +44,7 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 * In-class Practice:[week_4_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_inclass_practice.ipynb)
 * Take-Home Project:[week_4_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_takehome_project.ipynb)
+* Slide: [AGOE 報告.pdf](https://github.com/kevinkevin556/STASD/blob/master/week%204/AGOE%20%E5%A0%B1%E5%91%8A.pdf)
 
 ## Author / Teacher
 
