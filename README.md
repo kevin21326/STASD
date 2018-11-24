@@ -23,6 +23,7 @@ cd myproject
 
 All pieces of my project read the dataset from the directory `91APPdataset/`, and thus the relative dataset should be added under this folder to make sure all the scripts can run correctly. The other way is to modify the file path in the scripts separately.  
 
+
 ## Weekly Course Progress
 
 ### Week 1. 91App Dataset First Meet (Anaconda, Jupyter Notebook, Pandas) 
@@ -66,6 +67,8 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 * Take-Home Project: [內部控制.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%209/%E5%85%A7%E9%83%A8%E6%8E%A7%E5%88%B6.ipynb)
 * Slide: [kaggle_group2.pptx](https://github.com/kevinkevin556/STASD/blob/master/week%209/kaggle_group2.pptx)
+
+### Week 10. Chatbox
 
 ## Author / Teacher
 
