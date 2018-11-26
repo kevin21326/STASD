@@ -44,32 +44,44 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 4. Text Mining and Financial Report Analysis
 
-* In-class Practice: [week_4_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_inclass_practice.ipynb)
-* Take-Home Project: [week_4_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_takehome_project.ipynb)
-* Slide: [AGOE 報告.pdf](https://github.com/kevinkevin556/STASD/blob/master/week%204/AGOE%20%E5%A0%B1%E5%91%8A.pdf)
+- In-class Practice: [week_4_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_inclass_practice.ipynb)
+- Take-Home Project: [week_4_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%204/week4_takehome_project.ipynb)
+- Slide: [AGOE 報告.pdf](https://github.com/kevinkevin556/STASD/blob/master/week%204/AGOE%20%E5%A0%B1%E5%91%8A.pdf)
 
 ### Week 5.  TF - IDF
 
-* In-class Practice:
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
 
 ### Week 6.  PCA and K-means Clustering
 
-* In-class Practice:
+- In-class Practice:[week_6_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%206/week_6_inclass_practice.ipynb)
+- [ ] Take-Home Project:
+- [ ] README
 
 ### Week 7. SVM
 
-* In-class Practice:
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
 
 ### Week 8.  Deep learning
 
-* In-class Practice:
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
 
 ### Week 9.  K-means Clustering Application: Internal Control of Corporation  
 
-* Take-Home Project: [內部控制.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%209/%E5%85%A7%E9%83%A8%E6%8E%A7%E5%88%B6.ipynb)
-* Slide: [kaggle_group2.pptx](https://github.com/kevinkevin556/STASD/blob/master/week%209/kaggle_group2.pptx)
+- Take-Home Project: [內部控制.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%209/%E5%85%A7%E9%83%A8%E6%8E%A7%E5%88%B6.ipynb)
+- Slide: [kaggle_group2.pptx](https://github.com/kevinkevin556/STASD/blob/master/week%209/kaggle_group2.pptx):
+- [ ] README
 
 ### Week 10. Chatbox
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
 
 ## Author / Teacher
 
