@@ -56,7 +56,7 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 6.  PCA and K-means Clustering
 
-- In-class Practice:[week_6_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%206/week_6_inclass_practice.ipynb)
+- In-class Practice: [week_6_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week%206/week_6_inclass_practice.ipynb)
 - [ ] Take-Home Project:
 - [ ] README
 
