@@ -1,0 +1,484 @@
+﻿人文暨社會科學期刊 第二卷 第一期 民國九十五年 89 Journal of Humanities and Social Sciences, Vol. 2, No. 1, pp. 89-98 (2006)
+   董事會領導型態與內部稽核客觀性關係之研究
+趙哲言
+中國文化大學國際企業管理研究所 中華民國執業會計師、內部稽核師 台北市陽明山華岡路 55 號
+摘要
+本文以內部稽核人員之觀點，探討董事會之領導型態與內部稽核客觀性之關係。經由對 217 位內部稽核人員問卷調查、經相關分析、層級廻歸分析結果發現，內部稽核人員認知董事會之 三種領導型態:指導型(instrumental leadership)、支援型(supportive leadership)、參與型 (participative leadership)與內部稽核客觀性之關係，均呈顯著正相關;進一步分析，更可發現 三者對於內部稽核客觀性之關連性大小依序為:支援型領導、參與型領導、指導型領導;因此， 在內部稽核人員之心目中，較為在意的是董事之支持，而並不必然對董事的指導或參與內部稽 核之工作表示認同。 關鍵詞:董事會，支援型領導，參與型領導，指導型領導，內部稽核客觀性
+A Study of the Relationship between Board Leadership Styles and Internal Audit Objectivity
+CHE-YEN CHAO
+Graduate Institute of International Business Administration, Chinese Culture University Certified Public Accountant and Qualified Internal Auditor
+55, Hwa-Kong Rd., Yang-Ming-Shan, Taipei, Taiwan
+ABSTRACT
+This study explores the relationship of board leadership styles and internal audit objectivity from the perspective of internal auditors. Results from correlation analysis and multiple hierarchical regression analysis of 217 internal auditors reveal that internal auditors perceive instrumental, supportive, and participative leadership as being positively correlated with internal audit objectivity. Further analysis demonstrates that the contribution of supportive leadership to internal auditor objectivity is the most significant, followed by that of participative leadership and instrumental leadership. Therefore, internal auditors pay more attention to board support and do not necessarily identify with board instructions or participation in terms of internal auditing work.
+Key Word: board of directors, instrumental leadership, supportive leadership, participative leadership,
+internal audit objectivity
+   
+90
+客觀性。
+根據 House and Dessler(1974)以部屬角度來認知其上
+司之領導型態，所發展出包括:指導型(instrumental leadership)、支援型(supportive leadership)及參與型 (participative leadership)。Jago(1982)認為此三種型態 之領導理論，領導者會經由動機之激勵、與對部屬需求之滿 足來影響部屬之工作心態及行為，故以此種分類作為由部屬 之觀點，來評估上司領導型態及行為對部屬之影響，應是適 當的。因此:當內部稽核人員認知董事會之領導型態係不同 類型時，將會影響到內部稽核人員本身之工作態度(即認知 後之心態及行為);以本研究而言，董事會領導型態影響所
+1 三項評估內部稽核品質之要素(Brown, 1983; Schneider, 1984)包括: 內部稽核客觀性(objectivity)、內部稽核適任性(competence)及工 作表現(workperformed)。
+回顧過去之研究，為解釋領導之成因及影響，發展出的 領導理論中，有所謂特質理論-藉由領導者之特質來解釋領 導，代表之學者如 Robbins(1993);行為理論-經由領導 者之行為來解釋領導，代表之學者如管理方格理論 Blake and Mouton(1964);情境理論-即適當之管理應是情境不 同而有所不同，如權變理論，代表之學者如 Fiedler(1974); 交換理論(leader-member exchange model, LMX)係強調對 上司與部屬之互動關係之研究，代表之學者如 Dansereau, Graen, and Haga(1975)等等;迄今尚無一套理論可解釋所 有之疑義。House and Dessler(1974)發展出以部屬認知其 上司領導型態之三項量表，包括:指導型、支援型、參與型 等型態之領導理論，認為較能由部屬之觀點，詮釋上司領導 型態與部屬行為之關係(Jago, 1982)。
+1. 指導型領導:係指領導者於界定清楚之角色定位上，指 派部屬之工作，並為部屬指示工作程序與工作步驟;又 稱為規範型或結構型領導(initiating structure):即領導
+人文暨社會科學期刊 第二卷 第一期 民國九十五年
+ 一、前言
+在公司治理之四項基礎(Bookal & Bishop, 2002)中， 以董事會為重心，董事會對監督管理階層之執行，負有最主 要之義務(Jensen, 1993; Simpson & Gleason, 1998);內部 稽核部門係提供董事會、或由獨立董事所組成之審計委員會 (audit committee)監督訊息最主要的來源(Perry & Bryan, 1997);其對於監督管理階層，所能提供予董事會全天候 (day-to-day)之獨立稽核觀點，也非外部審計人員(會計 師)所能取代(Applegate, 2002)。因此，董事會主要係藉 由內部稽核提供之資訊，以克服其與公司管理階層資訊不對 稱之問題(Adams, 1994)、並可使公司避免或減少暴露於 風險之中(Vinten & Lee, 1993)。
+及，將是內部稽核最主要之心態特質-內部稽核客觀性。但 三種領導型態董事會與內部稽核之客觀性之間關係究竟如 何?又若董事會兼具有兩種以上之領導型態特質時，則各種 領導類型之交互作用效果對於內部稽核客觀性之關係是否 會互相干擾?文獻對此一問題討論者少，值得探討。
+因此，根據以上之推論，本研究之主要問題即在於發 掘:首先，當董事會為指導型領導型態特質時，其與內部稽 核客觀性之關係如何?其次，董事會為支援型領導型態特質 時，其與內部稽核客觀性之關係如何?再者，董事會為參與 型領導型態特質時，其與內部稽核客觀性之關係又如何?最 後，當董事會兼具兩種以上之領導型態特質時，各種領導類 型之交互作用效果對於內部稽核客觀性之關係是否會互相
+內部稽核品質1 之高低(或好壞)將影響稽核報告使用 干擾? 者之判斷(Maletta, 1993);而 Brown(1983)認為內部稽 核之客觀性(internal audit objectivity, IAOBJ)，係內部稽 核品質中最重要之內涵。“客觀性”(或稱獨立性)之定義乃 指內部稽核人員在執行內部稽核工作時所應該維持的一種 超然獨立的心態，唯有客觀的稽核，才能有良好的資訊品質 (陳真真，1995;翁子霖，1999;Brown, 1983)。影響內 部稽核之工作品質之好壞，除了內部稽核自身之因素外，最 主要係來自上級之支持與合作(Rezaee & Lander, 1993); 所謂「上級」對於內部稽核而言，因監督管理階層之力量主 要來自董事會(陳宏姿，2001);因此，董事會之領導行為 或態度，將對內部稽核之心態與行為產生影響，進而影響其
+二、文獻探討
+(一)領導行為(leader behavior) 吳志正(1994)認為，主管領導能力的發揮對組織而言
+極具重要性，一個有效運作的組織除了有良好的體制外，領 導者應能為團體或組織規劃出未來遠景或欲達成的使命; Bass(1985)與王傑明(2004)指出，為使部屬或同仁願意 犧牲個人利益達成組織的目標，領導者應激勵部屬及同仁面 對工作上的問題，開發更高的能力或潛力，進而使個人與組 織能夠轉型以增進組織效能。
+   
+者界定並建構自己與部屬間之角色與工作，以達成團體 目標(House & Dessler, 1974)。通常包括領導者會讓部 屬瞭解對該部門的期望、決定部屬應該作甚麼及怎麼 作、讓部屬瞭解在組織中的地位、會為部屬定義績效標 準及要求部屬遵照規則辦理等。
+2. 支援型領導:領導者對於部屬具有友善、可親近之特質， 並顧及部屬之需求而適時協助，故又稱為體恤型 (consideration)領導:即領導者與部屬間之互信、尊重 及關懷，透過互信與互動，關心部屬生活，以激發其工 作意願(House & Dessler, 1974);通常包括:組織成員 彼此係友善的、領導者會讓部屬的建議付諸實行、以公 平的態度對待部屬、事先讓部屬瞭解情況變動、幫助部 屬解決工作上的阻礙等。當上級的態度為支援型領導， 因為對待內部稽核係公平與友善的、會讓內部稽核部門 的建議付諸實行，這股力量將使內部稽核客觀無偏誤且 客觀公正的陳述己見(Wagner, 1965)。
+Halpin and Wuner(1957)將 Hemphill and Coons(1957) 所發展出的領導型為描述量表(leader behavior description questionnaire, LBDQ)歸納成以上兩構面理論;Robbins (1993)則依據二構面之不同高低程度之體恤與結構之交互 影響，將領導分為四種型態:(1)教練型(高體恤與高結 構)、(2)指導型(低體恤與高結構)、(3)支持型(高 體恤與低結構)及(4)授權型(低體恤與低結構)。
+3. 參與型領導:House and Dessler(1974)認為領導者並非 直接指示部屬之行為，而允許部屬經由提供意見來影響 或參與機構之決策，諸如:有問題時會向部屬諮詢、在 做決策前或在採取行動之前，會先與部屬做詳細詢問 等，而單獨成為一領導型態;Schriesheim and Scheiesheim (1980)認為各種領導行為構面之間會產生干擾效果。
+(二)內部稽核之客觀性
+客觀性又稱獨立性，係內部稽核人員在執行內部稽核工 作時所應該維持的一種超然獨立的心態(陳真真，1995;翁 子霖，1999)。Wagner(1965)認為客觀性係會計人員在 作判斷時應依證據以社會既成之觀點為根據(judged from the standpoint of society as a whole)而非以自我觀點來衡 量;董事會應盡力保持內部稽核部門之客觀性，以確保其資 訊來源之客觀正確(Bies, 2004);人與人之間想法之交流， 有助於客觀性之思考(Wagner, 1965)。
+內部稽核客觀性主要係以形成「客觀性之條件」來評估
+(Schneider, 1984)，包括:內部稽核部門所直屬的管理階 層愈高，則愈具有客觀性，這是由於其會被賦予充份的權力 且稽核範圍的不受限制所致、最高管理當局對內部稽核之工 作的授權與支持、隸屬之層級、出具之報告之客觀性、能避 免因角色與職務之衝突來執行其職務等;內部稽核部門之所 以愈具客觀性，是由於內部稽核部門被賦予充份的權力，且 稽核工作不會受到工作範圍的限制。此項要素亦美國會計師 協 會 ( American Institute of Certified Public Accountants, AICPA)所發佈審計準則公報(Statements on Auditing Standards, SAS)No.9 及 No.65、加拿大會計師協會(The Canadian Institute of Chartered Accountants, CICA)、及其他 各國亦作為對內部稽核客觀性評估之指標，台灣則同樣規範 於中華民國內部稽核協會所發佈之內部稽核執業準則 (1995);Schneider 並以三次實驗程序彙整出之模型，評 估內部稽核客觀性之要素，其中較顯著之特質如:內部稽核 人員出具之報告之獨立性、內部稽核在組織中報告之層級能 避免因角色與職務之衝突來執行其職務。 (三)其他影響內部稽核客觀性之變數
+Maletta(1993)認為固有風險(inherent risk, IR)及控 制力量(control strength, CS)與內部稽核工作品質有關，亦 即與內部稽核之客觀性有關，且列舉;固有風險、控制力量 與內部稽核獨立性之互動關係(interactions)係顯著相關 的。而 Colbert(1995)認為固有風險係企業無法達成既定 目標，或造成不利結果之因素，並將內部稽核評估風險之因 素計分為 12 項目;亦認為控制力量係指是否企業已適當確 認出(address)風險之所在，此二項變數均影響內部稽核客 觀性之優劣。此外，內部稽核人員之任期(Holmes & Schmitz, 1996)、以及公司所有權之型態(即公營、私營、外商及其 他)(Raghunandan, Rama, & Scarbrough, 1998)等，亦為影 響董事與內部稽核之間互動之指標，故亦可能影響內部稽核 客觀性之優劣。
+三、研究假說
+首先，當內部稽核處理超過他過去經驗與知識、能力所 不能及的事務時，是不可能具有客觀性的(Wagner, 1965)， 故當董事之態度為指導型時，會讓內部稽核部門瞭解董事會 在組織中的地位、能讓內部稽核部門瞭解對該部門的期望、 決定內部稽核部門應該作甚麼及怎麼作或明確要求內部稽 核部門遵照規則辦理時，將有助於提升內部稽核人員正確判
+趙哲言:董事會領導型態與內部稽核客觀性關係之研究
+91
+   
+92
+斷與處理稽核工作之知識與能力，因而有助於內部稽核客觀 性之提升。因此，獲得假說 1 如下: H1:指導型之董事會與內部稽核客觀性有關;董事會行為
+愈傾向指導型，則內部稽核之客觀性愈好。 其次，支援型領導之董事會，會使內部稽核部門的建議 付諸實行，這股力量將使內部稽核客觀公正的陳述己見;支 援型領導亦能充分幫助內部稽核部門解決工作上的阻礙，賦 予內部稽核較高之職等與權限，使得內部稽核能較無顧忌的 發揮其稽核功能，因而有助於內部稽核之客觀性。因此，獲
+得假說 2 如下: H2:支援型之董事會與內部稽核客觀性有關;董事會愈傾
+向支援型，則內部稽核之客觀性愈好。 再者，不同人之間想法之交流，有助於客觀性之思考
+(Wagner, 1965)，因此，當董事會之態度為參與型領導時， 董事會有問題時會向內部稽核部門諮詢、董事會在做決策 前，會先與內部稽核部門做溝通、董事會在採取行動之前， 會先與內部稽核部門做詳細諮詢時，將有助於彼此間監督資 訊之交流，因而有助於內部稽核客觀性。因此，獲得假說 3 如下: H3:參與型之董事會與內部稽核客觀性有關;董事會愈傾
+向參與型，則內部稽核之客觀性愈好。 最後，依據三種領導行為構面之不同高低程度之交互影
+響，產生不同領導型態(諸如:教練型、指導型、支持型、 授權型等)。若一董事會具有兩種以上之領導型態特質時， 基於先前對於各項假說之推論均為正向相關，故亦合理推斷 三種領導行為構面之間交互作用效果與內部稽核客觀性亦 應是正相關，以顯示其間相互干擾作用。因此，獲得假說 4、 5、6 及 7 如下: H4:董事會為指導型與支援型領導二者之交互作用，對內
+部稽核之客觀性具有干擾作用。 H5:董事會為指導型與參與型領導二者之交互作用，對內
+部稽核之客觀性具有干擾作用。 H6:董事會為支援型與參與型領導二者之交互作用，對內
+部稽核之客觀性具有干擾作用。 H7:董事會為指導型、支援型與參與型領導三者之間交互
+  作用，對內部稽核之客觀性具有干擾作用。
+四、研究方法
+(一)樣本與資料蒐集
+本研究以台灣之上市公司、上櫃公司、興櫃公司及公開 發行公司之稽核部門主管為對象，進行問卷調查，全部問卷 係以匿名方式填答，並以相關分析、複迴歸分析、信度分析 及效度分析為主要分析方法。
+正式問卷之前，本研究先對台灣之中華民國內部稽核協 會所屬之內部稽核人員 20 人進行預測，經由此項過程對於 部分之文字加以修正，以確保問卷內容之完整、問項之清晰 及問卷信度、效度之適當。由於問卷測量單位係部門水準 (unit-level)，故以內部稽核之主管人員為主要發放對象， 藉以評估其單位之整體水準(Koys, 2001)。正式問卷之發 放，全部 500 份問卷中，共取得回函 236 份(回收率 47%)， 其中除無效問卷計 19 份外，有效問卷計 217 份(佔回收數 之 92%)。經參考 Armstrong and Overton(1977)之方法， 比對回收先後樣本之平均值(顯著水準 P=0.05)並無顯著 差異，顯示 Nonresponse bias 之情況不高。
+有效問卷樣本之特質如下:女(147)67.6%、男(70) 31.5%;內部稽核隸屬於:董事會(88)39.8%、總經理(119) 55.3%、其他(10)4.7%;內部稽核部門人數:3 人以下(159) 73.6%、4-6 人(42)18.5%、7 人以上(16)7.5%。 (二)變數之衡量
+1. 認知領導行為量表(perceived leader behavior scales) 本研究以 House and Dessler(1974)所發展出以部屬認 知其上司領導型態之三項量表，其信、效度甚為良好。本研 究測得之信、效度亦甚佳，包括:指導型(信度部分，Cronbach α=0.9272;效度部份，KMO 值為 0.877)、支援型(信度
+部分，Cronbachα=0.8403;效度部份，KMO 值為 0.841)、 參與型(信度部分，Cronbachα=0.9363;效度部份，KMO 值為 0.715)。
+2. 內部稽核客觀性量表(The measurement of IAOBJ)
+係根據 Schneider(1984)以聯合衡量(conjoint measurement, CJM)之方式，由相關文獻及 SAS No.6 及 No.95 所建構之內部稽核客觀性量表(IAOBJ 量表);本研 究以內部稽核自我評估之觀點來切入，共計五題問項，採 7-Point Likert 量表，從『非常不同意』至『非常同意』;IAOBJ 量表經本研究之信、效度分析如下:Cronbachα=0.9285; KMO 值為 0.885，因此，其信、效度均甚良好。
+3. 影響內部稽核客觀性之其他變數
+人文暨社會科學期刊 第二卷 第一期 民國九十五年
+   
+對於其他影響之變數，包括:人口統計變數: demongraphy attributes(Haveman, 1995):以「內部稽核人 員之任期長短」;企業環境變項:公司成立年限、所有權之 型態、固有風險及控制力量(Maletta, 1993)等加以控制。 其中固有風險及控制力量之量表(Guess, Louwers, & Strawser, 2000; Haskins, 1987)，原採用之衡量共十四問項， 經前測對部分之文字加以修正後，採 7-Point Likert 量表， 從『非常不同意』至『非常同意』、去掉信度不足之問項後， 共計餘 8 題，其中 IR 計 4 問項(信度部分，Cronbachα= 0.7345;效度部份，KMO 值為 0.736);CS 計 4 問項(Cronbach α=0.8128;KMO 值為 0.796)，其信、效度均甚為良好。
+五、研究結果
+本單元針對回收之問卷，除探討指導型領導、支援型領 導、參與型領導與內部稽核客觀性之關係外，並運用實證資 料進行層級迴歸分析(multiple hierarchy regression)，及探 討指導型領導、支援型領導、參與型領導各類型領導如何彼 此干擾對內部稽核客觀性之影響，以上係採用 the Statistical Package for the Social Science(SPSS)統計軟體加以分析。 1. 三種領導類型與內部稽核客觀性之關係進行相關分析及
+多元層級迴歸分析:
+首先，從表 1 各變數之相關性可看出，控制力量與稽核
+部門人數呈正相關(β=.221，P<.01)，顯示稽核部門人數 愈多、其監控力量愈強;控制力量與指導型、支援型、參與 型領導均呈正相關(β值分別為 .649、.647、.524，P<.01)，
+與 IAOBJ 亦呈正相關(β=.367，P<.01)，顯示控制力量 對於領導型態及 IAOBJ 之重要性。指導型領導與 IAOBJ 呈 正相關(β=.338，P<.01)、支援型領導與 IAOBJ 呈正相 關(β=.462，P<.01)、參與型領導與 IAOBJ 呈正相關(β =.340，P<.01)。初步結果，驗証變數間之關聯性係明確 而顯著，因此，驗證了 H1、H2、H3 之三項假說。
+其次，從表 2 各變數之迴歸分析結果。首先，針對三種 類型之領導型態(自變數)個別與 IAOBJ(因變數)迴歸分 析結果，發現:step 2-1 指導型領導與 IAOBJ 呈正相關(β =.211，P<.05)、step 2-2 支援型領導與 IAOBJ 呈正相關 (β=.396，P<.01)、step 2-3 參與型領導與 IAOBJ 呈正相 關(β=.231，P<.01)，其結果，驗証各個自變數與內部稽 核客觀性間均係顯著正相關。雖然，所有迴歸分析之 R2均 小於 0.3，解釋能力稍低，但分析卻呈現甚強之顯著性，因 此，董事會領導類型之區別，仍可部分解釋對內部稽核客觀 性之影響。故在此階段:H1、H2 及 H3 三項假說迴歸分析 結果亦獲成立。
+此外，經由相關分析及多元層級迴歸分析之結果發現: 在領導類型與 IAOBJ 迴歸分析之結果，以支援型領導與 IAOBJ 之關聯係數最高(R2=.260，ΔR2=.089);且迴歸 分析結果，支援型領導與 IAOBJ 之關聯係數高於指導型領 導(R2=.196，ΔR2=.025)、亦高於參與型領導(R2=.209， ΔR2=.182)，顯示三者與內部稽核客觀性之關聯性，以支 援型領導之關聯性較強。
+趙哲言:董事會領導型態與內部稽核客觀性關係之研究
+93
+  表 1. 本研究變數之相關矩陣
+   Variables
+     M
+ (SD)
+     a
+   b
+ c
+     d
+   e
+ f
+     g
+   h
+ i
+     j
+   a
+     7.26
+ 2.67
+     1
+                              b
+       3.45
+    2.37
+      .277**
+      1
+                                           c
+  2.02
+.34
+  .085
+ -.163*
+1
+           d
+       1.48
+    1.18
+      .082
+      .088
+   -.097
+      1
+                                  e
+  3.87
+1.11
+  -.064
+ -.090
+-.091
+  .021
+ 1
+        f
+       4.91
+    1.06
+      -.074
+      .161*
+   -.014
+      .221**
+      .130
+   1
+                         g
+  4.52
+1.27
+  -.094
+ .017
+.023
+  .125
+ .221**
+.649**
+  1
+      h
+       4.54
+    .99
+      -.148*
+      .009
+   -.023
+      .119
+      .040
+   .647**
+      .782**
+      1
+             i
+    4.44
+   1.43
+   -.062
+    .016
+  .043
+   .083
+    .206**
+  .524**
+   .675**
+    .715**
+  1
+       j
+    4.81
+   1.23
+   .077*
+    .026
+  .052
+   .092
+    -.087
+  .367**
+   .338**
+    .462**
+  .340**
+   1
+   註:1. a 表公司成立年限(代表企業經營之年限);b 表內部稽核人員之任期長短;c 表所有權型態(領導階層之股權大小);d 表稽核部 門人數;e 表固有風險;f 表控制力量;g 表指導型領導;h 表支援型領導;i 表參與型領導;j 表內部稽核客觀性
+2. **, * 表示顯著水準 p<0.01 及 p<0.05(雙尾測試)
+  
+94
+2. 為驗證三種領導類型交互作用下與內部稽核客觀性之關 係進行相關分析及干擾複迴歸分析(moderator multiple regression):
+首先，表 3 之相關分析，指導型與支援型之交互作用效 果與 IAOBJ 呈正相關(β=.413，P<.01)、指導型與參與 型之交互作用效果與 IAOBJ 呈正相關(β=.358，P<.01); 支援型與參與型交互作用效果與 IAOBJ 呈正相關(β =.402，P<.01);指導型與支援型與參與型之交互作用效 果與 IAOBJ 亦呈正相關(β分別為 .383，P<.01);因此， 故在此階段之交互作用效果 H4、H5、H6 及 H7 之四項假說 獲得部份支持。
+其次，進一步驗證三種領導類型交互作用下與內部稽核 客觀性之關係進行干擾複迴歸分析，以了解其對 IAOBJ 之
+貢獻程度及交互作用之干擾效果。從表 2 分別比較指導型領 導、支援型領導與 IAOBJ 之關係、及二者交互作用與 IAOBJ 之關係(step 3-2);指導型領導、參與型領導與 IAOBJ 之 關係，及二者交互作用與 IAOBJ 之關係(step 4-2);支援 型領導、參與型領導與 IAOBJ 之關係、及二者交互作用與 IAOBJ 之關係(step 5-2);最後，並驗證指導型領導、支 援型領導、參與型領導交互作用三者與 IAOBJ 之關係(step 6)。結果發現，三種領導類型交互作用效果與 IAOBJ 之關 係均不顯著(β值分別為.233、-.070、-.271及-.040，P值 均大於 10%)，因此 H4、H5、H6 及 H7 等之假說未獲支持， 故並不成立。
+人文暨社會科學期刊 第二卷 第一期 民國九十五年
+  表 2. 本研究變數之迴歸模式分析
+   Variables/Steps
+       Step 1
+       Step 2-1 (H:1)
+     Step 2-2 (H:2)
+     Step 2-3 (H:3)
+ Step 3(H:4)
+     Step 4(H:5)
+ Step 5(H:6)
+     Step 6 (H:7)
+     Step 3-1
+      Step 3-2
+     Step 4-1
+     Step 4-2
+     Step 5-1
+     Step 5-2
+    a
+     .114*
+   .118*
+   .144**
+ .114*
+ .146**
+  .147**
+ .116*
+ .115*
+ .142**
+.140**
+     .144**
+   b
+       -.076
+      -.062
+     -.043
+   -.065
+    -.044
+      -.043
+     -.060
+     -.061
+     -.044
+   -.045
+      -.045
+    c
+  .050
+ .048
+ .057
+.043
+ .058
+  .062
+ .043
+ .043
+ .055
+.051
+  .057
+   d
+       .008
+      .010
+     .014
+   .014
+    .013
+      .013
+     .014
+     .014
+     .014
+   .014
+      .014
+    e
+  -.144**
+ -.171**
+ -.122*
+-.174***
+ -.109*
+  -.110*
+ -.180***
+ -.180***
+ -.127**
+-.126**
+  -.115*
+   f
+       .405***
+      .269**
+     .142*
+   .284***
+    .159*
+      .159*
+     .240***
+     .242***
+     .140*
+   .149*
+      .158*
+    g
+        .211**
+       -.079
+    -.217
+   .108
+   .142
+        -.088
+    h
+    .396***
+ .466***
+  .342*
+   .376***
+.480
+  .423***
+   i
+                     .231***
+               .184**
+     .223
+     .029
+   .206
+      .043
+    IV interact effect
+       .233
+  -.070
+ -.271
+  -.040
+   R2
+     .171
+   .196
+   .260
+ .209
+   .262
+    .263
+   .214
+   .214
+   .260
+ .262
+     .262
+   Adjusted R2
+       .148
+      .169
+     .235
+   .182
+    .233
+      .231
+     .183
+     .180
+     .231
+   .230
+      .230
+    ΔR2
+        .025
+   .089
+  .038
+  .066
+    .001
+   .018
+   0
+   0
+  .002
+       F
+    7.232
+    7.237
+   10.465
+  7.879
+  9.209
+    8.211
+   7.064
+   6.255
+   9.131
+  8.161
+   8.181
+   註:1. 變數定義請參閱表 1;依變數為內部稽核客觀性(IAOBJ) 2. ***, **, * 表示顯著水準 p<0.01, p<0.05 及 p<0.1(雙尾測試)
+ 表 3. 領導型態之交互作用效果之相關矩陣
+註:1. a 表內部稽核獨立性(IAOBJ);b 表 IL*SL(指導型領導*支援型領導);c 表 IL*PL(指導型領導* 參與型領導之交互作用);d 表 SL*PL(支援型領導*參與型領導之交互作用);e 表 IL*SL*PL(指 導型領導*支援型領導*參與型領導之交互作用)
+   Variables
+     M
+   (SD)
+ a
+     b
+   c
+ d
+     e
+   a
+     4.8147
+   1.2323
+ 1
+                 b
+       21.4912
+      9.1735
+   .413**
+      1
+                   c
+    21.2888
+    10.4567
+  .358**
+   .910**
+    1
+         d
+    21.1229
+    9.3784
+  .402**
+   .872**
+    .950**
+  1
+       e
+    104.7459
+    63.8641
+  .383**
+   .946**
+    .977**
+  .957**
+   1
+   2. **, * 表示顯著水準 p<0.01 及 p<0.05(雙尾測試)
+  
+六、討論
+本研究係由內部稽核人員認知之角度，來探討董事領導 類型與 IAOBJ 之關係，由於內部稽核人員係執行內部稽核 工作之主要人員，由其來評估形成 IAOBJ 之條件，應較為 適當。根據研究結果發現，首先，指導型領導與內部稽核客 觀性呈正相關(H1 獲得確認)，係因指導型之董事會，在 內部稽核人員之認知上，所代表之意義為:董事關注並已能 瞭解內部稽核之工作，因此有助於內部稽核能力之提升與工 作之進行，使得專業能力與內部稽核客觀性均得以確保。其 次，支援型領導與內部稽核客觀性呈正相關(H2 獲得確 認)、代表在內部稽核人員之認知上，支援型之董事，為內 部稽核人員工作上遇到問題時之依靠，因此有助於其工作之 發揮與獨立自主、有利於內部稽核客觀性之提昇。再者，參 與型領導與內部稽核客觀性呈正相關(H3 獲得確認)，其 所代表之意義為:董事之參與，在內部稽核人員認知上，係 有助於內部稽核之工作設計更加完善與客觀，故對於內部稽 核客觀性有利。因此，本研究之結果，假說 1 至假說 3 均獲 得驗証，使得相關領域之知識本體(即董事會領導類型與內 部稽核客觀性)獲得延伸。此外，過去領導理論文獻，多以 直屬上司與部屬與部門或企業績效作連結(王傑明，2004; Bass, 1985)，較少對負責監督責任之董事會與領導類型與 IAOBJ 做研究，就監督者之立場，本研究之實證結果，顯示 董事會領導類型不同時，會對內部稽核人員之客觀性產生影 響，因此，延伸了領導理論之觀點。
+雖然，董事會三種領導型態與內部稽核客觀性之間均係 顯著正相關，但其間關係亦有強弱之分，根據各變數之相關 分析與迴歸分析結果:顯示指導型領導、支援型領導與參與 型領導三者對於內部稽核客觀性之相關性大小依序為:支援 型領導、參與型領導、指導型領導。因此，支援型領導係內 部稽核人員心中最為期待之董事領導方式，代表在內部稽核 人員之心目中，較為在意的是董事會之支持，而並不必然對 董事會介入與參與內部稽核之工作表示認同，因為董事會介 入指導或參與內部稽核部門工作，亦可能會因為誤導或干涉 過多，不利於內部稽核之客觀性，而對其監督績效產生不良 影響。
+此外，三種領導類型交互作用效果與內部稽核客觀性之 關係，雖然在相關分析中部份獲得證實，但複迴歸分析結果 則並不顯著，顯示三者彼此間交互作用干擾之情形尚無法確 認，因此，Schriesheim and Scheiesheim(1980)認為領導類
+型構面之間會產生干擾效果之情形，在本研究中並未顯現。 合理的推論，這種結果，應係內部稽核人員在對董事會領導 類型之認知上，係清楚地劃分董事會之領導行為，意即:內 部稽核人員對董事之領導型態，係具有單一刻板印象的，因 而造成三種領導類型，彼此間交互作用干擾之情形並不顯 著。因此，在實務運作上，董事會應特別注意自己在內部稽 核人員心中之領導型態印象之建立，以便有效加以運用進行 領導，進而促使內部稽核客觀性提高。
+七、研究限制及建議
+首先，內部稽核人員所認知之董事領導型態及客觀性之 感受，與董事本人之認知董事領導型態與內部稽核人員客觀 性是否相同，此仍有待檢驗(Dezoort, Houston, & Peters, 2001)，或許因內部稽核人員之本位主義或自尊，造成低估 他人行為影響、高估自己行為績效之認知傾向(Felfe & Schyns, 2004)，此種無可避免的有認知上偏頗，為本研究 限制之一。若再從其他利害關係人(stakeholders)之角度評 估內部稽核獨立性時，例如:外部稽核、政府機關、公司管 理階層、董事會或 Audit committee 等，或許會因不同之期 待 與 動 機 之 衝 突 ( dissimilar perceptions and conflicting motivations)(Lampe & Sutton, 1994)，可能與內部稽核人 員所認知之感受有所不同，惟因資料取得困難，亦為本研究 之另一項限制。
+其次，儘管支援型領導、參與型領導，指導型領導與內 部稽核客觀性之間均雖為正相關，但為何參與型領導、指導 型領導之關聯性較低?是否較不受到內部稽核人員之重 視?是否係因參與型領導，如果董事樣樣都要與內部稽核人 員做諮詢，則將使內部稽核人員降低查核時間，而無足夠的 時間去完成工作?或因內部稽核人員的工作，與所分配到的 人力與資源並不足夠，不利客觀性?此或許係因董事專注之 方向不同，尚未充分利用稽核部門人力?指導型領導之董 事，若要求內部稽核做一些與其職務、或與內部稽核人員的 工作政策或指引相衝突之事，不利其客觀性?是否亦牽涉董 事職務之權力(power)、或亦受董事客觀性之影響?此均 有待未來之研究做進一步探討。
+再者，本研究所有迴歸分析之 R2 均小於 0.3，雖然仍可 部分解釋內部稽核客觀性，但顯然對於內部稽核客觀性之影 響，尚有其他變數待釐清，例如:本研究發現在控制變數中， 公司成立年限與董事領導型態及內部稽核之客觀性均具有
+趙哲言:董事會領導型態與內部稽核客觀性關係之研究
+95
+   
+96
+正相關，是否係因成立年限愈長、董事會組織結構較健全(陳 宏姿，2001)、形成內部控制力量亦愈強，而使得內部稽核 之客觀性亦愈強?或是因成立年限長，所塑造之企業文化環 境對於領導型態之影響所致?因內部控制之重點即在於控 制環境，故企業文化與董事會結構對於董事領導型態及內部 稽核客觀性間之影響，亦仍有待未來作進一步探討。
+參考文獻
+中華民國內部稽核協會內部稽核執業準則委員會(1995)。 內部稽核執業準則。台北:中華民國內部稽核協會內部 稽核執業準則委員會。
+王傑明(2004)。主管領導行為、工作特性、工作滿意度與 離職傾向之關係之研究-以高科技產業員工為例。國立 成功大學企業管理研究所之碩士論文，未出版，台南。
+吳志正(1994)。企業領導人之個人特質、領導型態、績效 評估之相關性研究(上)。人事月刊，18(4)，25-32。
+翁子霖(1999)。探討內部稽核品質之因素對於全面品質管 理之影響-以國內資訊業為例。淡江大學會計學系碩士 班碩士論文，未出版，台北。
+陳宏姿(2001)。董監事結構與企業經營績效關聯之研究。 國立政治大學會計學系碩士班之碩士論文，未出版，台 北。
+陳真真(1995)。影響我國企業內部稽核品質因素之探討。 國立成功大學會計研究所碩士論文，未出版，台南。
+Adams, M. B. (1994). Agency theory and the internal audit. Managerial Auditing Journal, 9(8), 8-12.
+Applegate, D. (2002). Shifting our focus. The Internal Auditor, 59(5), 76.
+Armstrong, J. S., & Overton, T. S. (1977). Estimating nonresponse bias in mail surveys. Journal of Marketing Research, 14(3), 396-402.
+Bass, B. M. (1985). Leadership and performance beyond expectations. New York: Free Press.
+Bies, S. S. (2004, April). Current issues in corporate governance: Effective risk management. In S. S. Bies (Chair), Vital Speeches of the day, Delivered to the Bank AdministrationInstitute’sFiduciaryRiskManagement Conference, Las Vegas, Nevada.
+Blake, R. R., & Mouton, J. S. (1964). The managerial grid. Houston: Gulf publishing Co.
+Bookal, L. E., & Bishop, B. (2002). Integral to good corporate
+governance. The Internal Auditor, 59(4), 44-49. Brown, P. R. (1983). Independent auditor judgment in the evaluation of internal audit functions. Journal of
+Accounting Research, 21(2), 444-455.
+Colbert, J. L. (1995). Risk. The Internal Auditor, 52(5), 36-42. Dansereau, F., Graen, G., & Haga, W. J. (1975). A vertical dyad
+linkage approach to leadership within formal organizations: A longitudinal investigation of the role-making process. Organizational Behavior and Human Performance, 13, 46-78.
+Dezoort, F. T., Houston, R. W., & Peters, M. F. (2001). The impact of internal auditor compensation and role on external auditors’planning judgments and decisions. Contemporary Accounting Research, 18(2), 257-281.
+Felfe, J., & Schyns, B. (2004). Is similarity in leadership related to organizational outcomes? The case of transformational leadership. Journal of Leadership and Organizational Studies, 10(4), 92-102.
+Fiedler, F. E. (1974). The contingency model-new directions for leadership utilization. Journal of Contingency Business, 71, 19-30.
+Guess, A. K., Louwers, T. J., & Strawser, J. R. (2000). The role ofambiguityinauditors’determinationofbudgetedhours. Behavioral Research in Accounting, 12, 119-138.
+Halpin, A. W., & Wuner, B. J. (1957). A factorial study of the leader behavior descriptions, paper presented in the First International Conference on Bureau of Business Research, The Ohio State University, Ohio.
+Haskins, M. E. (1987). Client control environments: An examinationofauditors’perceptions.T h e A c c o u n t i n g Review, 62, 542-563.
+Haveman, H. A. (1995). The demographic metabolism of organizations: Industry dynamics, turnover, and tenure distributions. Administrative Science Quarterly Ithaca, 40(4), 586-618.
+Hemphill, J. K., & Coons, A. E. (1957). Development of the leader behavior description questionnaire. In R. M. Stogdill, & A. E. Coons (Eds.), Leader behavior: Its descriptions and measurement (pp. 6-38). Columbus, Ohio: Bureau of Business Research.
+Holmes, T. J., & Schmitz, J. A. (1996). Managerial tenure, business age, and small business turnover. Journal of Labor Economics, 14(1), 79-99.
+House, R. J., & Dessler, G. (1974). The path goal theory of
+人文暨社會科學期刊 第二卷 第一期 民國九十五年
+   
+leadership: Some post hoc and priori tests. In J. G. Hunt, & L. L. Larson (Eds.), Contingency approaches to leadership (pp.46-48). Carbondale: Southern Illinois University Press.
+Jago, A. G. (1982). Leadership: Perspectives in theory and research. Management Science, 28(3), 315-336.
+Jensen, M. C. (1993). The modern industrial revolution, exit, and the failure of internal control systems. Journal of Finance, 48(3), 831-880
+Koys, D. J. (2001). The effects of employee satisfaction, organizational citizenship behavior and turnover on organizational effectiveness: A unit-level, longitudinal study. Personnel Psychology, 54, 101-114.
+Lampe, J. C., & Sutton, S. G. (1994). Evaluating the work of internal audit: A comparison of standards and empirical evidence. Accounting and Business Research, 24(96), 335-348.
+Maletta, M. J. (1993). An examination of auditors’decisions to use internal auditors as assistants: The effect of inherent risk. Contemporary Accounting Research, 9(2), 508-525.
+Perry, L. M., & Bryan, B. J. (1997). Helightened responsibilities of the internal auditor in the detection of fraud. Managerial Finance, 23(12), 38-43.
+Raghunandan, K., Rama, D.V., & Scarbrough, D. P. (1998). Accounting and auditing knowledge level of Canadian
+audit committees: Some empirical evidence. Journal of
+International Accounting & Taxation, 7(2), 181-194. Rezaee, Z., & Lander, G. H. (1993). Theinternalauditor’s
+relationship with the audit committee. Managerial
+Auditing Journal, 8(3), 35-40.
+Robbins, S. P. (1993). Organizational behavior: Concepts,
+controversies, and applications (6th Ed.). Englewood
+Cliffs, NJ: Prentice Hall.
+Schneider, A. (1984). Modeling external auditors’evaluations
+of internal auditing. Journal of Accounting Research,
+22(2), 657-677.
+Schriesheim, J. F., & Scheiesheim, C. A. (1980). A test of the
+path-goal theory of leadership and some suggested directions for future research. Personnel Psychology, 33, 349-370.
+Simpson, W. G., & Gleason, A. E. (1998). Board structure, ownership, and financial distress in banking firms, International Review of Economics & Finance, 8, 281-292.
+Vinten, G., & Lee, C. (1993). Audit committees and corporate control. Managerial Auditing Journal, 8(3), 12-26. Wagner, J. W. (1965). Defining objectivity in accounting. The
+Accounting Review, 40(2), 599-605.
+收件:95.01.13 修正:95.04.18 接受:95.05.25
+趙哲言:董事會領導型態與內部稽核客觀性關係之研究
+97
+   
+98
+本研究所使用之問卷
+一、以您的觀點來看，貴公司董事會的領導方式:
+人文暨社會科學期刊 第二卷 第一期 民國九十五年
+ (一)指導型領導
+IL1.他們會讓內部稽核部門瞭解對該部門的期望。 IL2.他們會決定內部稽核部門應該作甚麼及怎麼作。 IL3.他們會讓內部稽核部門瞭解董事會在組織中的地位。 IL4.他們會為內部稽核部門定義績效標準。 IL5.他們會要求內部稽核部門遵照規則辦理。
+(二)支援型領導
+Sl1.他或他們的成員係友善的。 SL2.他們對拉近與內部稽核部門關係的事情作的很少。 SL3.他們會讓內部稽核部門的建議付諸實行。 SL4.他們會以公平的態度對待內部稽核部門。 SL5.他們會事先讓內部稽核部門瞭解情況變動。 SL6.他們相當保守與本位主義。 SL7.他們會幫助內部稽核部門解決工作上的阻礙。
+(三)參與型領導
+PL1.他們有問題時會向內部稽核部門諮詢。 PL2.他們在做決策前，會先與內部稽核部門做詳細諮詢。 PL3.他們在採取行動之前，會先與內部稽核部門做詳細諮詢。。 二、請以您對內部稽核部門的觀察來回答下列題目:內部稽核之客觀性
+OBJ 1.最高管理當局對內部稽核之工作是很支持的
+OBJ 2.內部稽核向上級報告之層級高或低是令您滿意的
+OBJ 3.內部稽核所隸屬之層級高或低是令您滿意的
+OBJ 4.內部稽核所出具之報告，其獨立性是令您滿意的
+OBJ 5.內部稽核能避免因角色與職務之衝突來執行其職務 三、請以您對公司的觀察或感覺來回答下列題目:在您的公司內外部之環境: (一)控制力量 CS1.管理當局樂於接受稽核人員所提出對於財務報表之修正意見 CS2.公司有良好的預算制度與良好的組織架構 CS3.公司對於客戶之授信政策是很嚴格的(與同業或以前比較) CS4.公司內部有適當之授權及分層負責制度
+(二)固有風險
+IR1. 公司財務長更換頻繁(與同業或以前比較) IR2.公司為達成獲利目標之壓力很大
+IR3 公司極有可能立即會失去重要的客戶
+IR4 公司資產打銷及列報存貨損失之金額很大(與同業或以前比較)
+附錄
+  
