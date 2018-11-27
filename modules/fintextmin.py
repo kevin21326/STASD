@@ -54,8 +54,8 @@ def count_words_in_documents(doc_list, doc_names, stopwords=[], puncs='', stop_p
 	documents_words_count = {}
 	for i in range(len(doc_list)):
 		tokenized_doc = tokenize_text(doc_list[i])
-		documents_words_count[doc_names[i]] = count_words(tokenized_doc, stopwords, puncs,  stop_pattern)
-	return documents_words_count		 
+		documents_words_count[doc_names[i]] = count_words(tokenized_doc, stopwords, puncs, stop_pattern)
+	return documents_words_count
 
 
 
@@ -100,7 +100,7 @@ def plot_tf_bar(word_dict,
 		ax.set_xticks(index)
 		ax.set_xticklabels(label, fontsize=xticks_fontsize, fontproperties=font)
 		if not title is None:
-			ax.set_title(title, fontsize=title_fontsize)
+			ax.set_title(title, fontsize=title_fontsize, fontproperties=font)
 
 def get_sentences(text, sep=' '):
 	sentences = text.split(sep)
@@ -119,7 +119,7 @@ def count_words_in_sentences(tokenized_sentence, stopwords=[], puncs='', stop_pa
 		sentences_words_count[key] = count_words(value, stopwords=stopwords, puncs=puncs,  stop_pattern=stop_pattern)
 	return sentences_words_count
 
-def create_word_frequency_matrix(documents_words_count):
+def create_word_frequency_matrix(documents_words_count, text_index=None):
 	total_words = [word for count in documents_words_count.values() for word in count] 
 	unique_word_set = set(total_words)
 	for doc, count in documents_words_count.items():
@@ -127,6 +127,10 @@ def create_word_frequency_matrix(documents_words_count):
 			documents_words_count[doc][zero_word] = 0
 	
 	word_frequency = pd.DataFrame(documents_words_count).T
+	if text_index is None:
+		word_frequency.index = range(len(word_frequency.index))
+	else:
+		word_frequency.index = text_index
 	return word_frequency
 
 def evaluate_tfidf(word_frequency, drop_freq=0):
@@ -135,14 +139,15 @@ def evaluate_tfidf(word_frequency, drop_freq=0):
 	df_tfidf = pd.DataFrame(tfidf.toarray(), columns = word_frequency.columns.tolist())
 	return df_tfidf
 
-def plot_tfidf_wordcloud(df_tfidf, ax=None, font_path=r'example/font/path/LoremIpsum.ttc', background_color="white", width=1000, height=860, margin=2):
+def plot_tfidf_wordcloud(df_tfidf, text_index=0, ax=None, font_path=r'example/font/path/LoremIpsum.ttc', background_color="white", width=1000, height=860, margin=2):
 	tfidf_dict = df_tfidf.to_dict(orient='records')
 	if ax is None:
-		plot_wordcloud(tfidf_dict[1], font_path=font_path, background_color=background_color, width=width, height=height, margin=margin)
+		plot_wordcloud(tfidf_dict[text_index], font_path=font_path, background_color=background_color, width=width, height=height, margin=margin)
 	else:
-		plot_wordcloud(tfidf_dict[1], ax=ax, font_path=font_path, background_color=background_color, width=width, height=height, margin=margin)
+		plot_wordcloud(tfidf_dict[text_index], ax=ax, font_path=font_path, background_color=background_color, width=width, height=height, margin=margin)
 
 def plot_tfidf_bar(df_tfidf,
+				   text_index=0,
 				   ax=None,
 				   font_path=r'example/font/path/LoremIpsum.ttc',
 				   bin=20,
@@ -151,7 +156,7 @@ def plot_tfidf_bar(df_tfidf,
 				   title_fontsize = 26,
 				   **kwargs):
 	tfidf_dict = df_tfidf.to_dict(orient='records')
-	plot_tf_bar(tfidf_dict[1], ax=ax, font_path=font_path, bin=bin, figsize=figsize, xticks_fontsize = 10, title_fontsize = 20, **kwargs)
+	plot_tf_bar(tfidf_dict[text_index], ax=ax, font_path=font_path, bin=bin, figsize=figsize, xticks_fontsize = 10, title_fontsize = 20, **kwargs)
 
 
 def set_puncs(add_puncs=''):
