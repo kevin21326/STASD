@@ -91,7 +91,7 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 12.  Natural Language Processing: NLTK introduction
 
-- [ ] In-class Practice: [week_12_inclass_practice.ipynb]()
+- [ ] In-class Practice: [week_12_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_12/week_12_inclass_practice.ipynb)
 - [ ] Take-Home Project:
 - [ ] README
 
