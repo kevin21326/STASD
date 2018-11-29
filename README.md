@@ -78,8 +78,20 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 - Slide: [kaggle_group2.pptx](https://github.com/kevinkevin556/STASD/blob/master/week%209/kaggle_group2.pptx):
 - [ ] README
 
-### Week 10. Chatbox
+### Week 10. Chatbox Workshop
 - [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
+
+### Week 11. Apriori Algorithm and Association rules
+
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
+
+### Week 12.  Natural Language Processing: NLTK introduction
+
+- [ ] In-class Practice: [week_12_inclass_practice.ipynb]()
 - [ ] Take-Home Project:
 - [ ] README
 
