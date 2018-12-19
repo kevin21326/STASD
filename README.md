@@ -50,8 +50,8 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 5.  TF - IDF
 
-- [ ] In-class Practice: [week_5_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_05/week_5_inclass_practice.ipynb)
-- [ ] Take-Home Project:
+- In-class Practice: [week_5_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_05/week_5_inclass_practice.ipynb)
+- [ ] Take-Home Project: [week_5_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_05/week_5_takehome_project.ipynb)
 - [ ] README
 
 ### Week 6.  PCA and K-means Clustering
@@ -95,6 +95,16 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 - [ ] Take-Home Project:
 - [ ] README
 
+### Week 13. Vector Representations of Words (Word2Vec Model)
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
+
+### Week 15. Encoding Time Series as Images with Gramian Angular Field
+- [ ] In-class Practice:
+- [ ] Take-Home Project:
+- [ ] README
+
 ## Author / Teacher
 
 * 洪振倫 Kevin Hong - NTU Economics
@@ -102,13 +112,5 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/kevinkevin556/STASD/blob/master/LICENSE) file for details.
-
- 
-
-
-
-
-
-##### 
+This project is licensed under the MIT License - read [LICENSE](https://github.com/kevinkevin556/STASD/blob/master/LICENSE) file for more details.
 
