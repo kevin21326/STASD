@@ -60,9 +60,9 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 - [ ] Take-Home Project:
 - [ ] README
 
-### Week 7. SVM
+### Week 7. Machine Learning Introduction: Support Vector Machine (SVM)
 
-- [ ] In-class Practice:
+- In-class Practice: [week_7_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_07/week_7_inclass_practice.ipynb)
 - [ ] Take-Home Project:
 - [ ] README
 
