@@ -7,7 +7,6 @@
 1. Get familiar with text mining pipline.
 2. Create TF-IDF matrix from financial reports.
 
-
 ## Take-Home Project
 
 [week_5_takehome_project.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_05/week_5_takehome_project.ipynb)
