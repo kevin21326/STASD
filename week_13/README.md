@@ -2,7 +2,9 @@
 
 ## In-Class Practice
 
+[week_13_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_13/week_13_inclass_practice.ipynb)
 Try to explore the word2vec model on your own and write a sample code.
+    - Use Word2Vec model to explore the novel 修真聊天群。
 
 ## Take-Home Project
 
