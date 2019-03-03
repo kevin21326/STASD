@@ -12,10 +12,12 @@ def get_keywords(url='https://baike.baidu.com/item/%E4%BF%AE%E7%9C%9F%E8%81%8A%E
     page = s.get(url)
     soup = BeautifulSoup(page.text.encode(page_encoding), features='lxml')
     main_content = soup.find('div', {'class':'main-content'})
+    main_para = main_content.find_all('div', 'para')
     stopwords = ['', ' ',',', ';', '：', '【', '】','\n', '\n\n', '\xa0', '\xa0\xa0', '\u3000',  '\u3000\u3000'] 
 
     keywords = []
-    keywords += [a.text for a in main_content.find_all('a') if a.text not in stopwords]
-    keywords += [b.text for b in main_content.find_all('b') if b.text not in stopwords]
+    for p in main_para:
+        keywords += [a.text for a in p.find_all('a') if a.text not in stopwords]
+        keywords += [b.text for b in p.find_all('b') if b.text not in stopwords]
 
     return keywords
