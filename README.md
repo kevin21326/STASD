@@ -58,13 +58,11 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 - In-class Practice: [week_6_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_06/week_6_inclass_practice.ipynb)
 - [ ] Take-Home Project:
-- [ ] README
 
 ### Week 7. Machine Learning Introduction: Support Vector Machine (SVM)
 
 - In-class Practice: [week_7_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_07/week_7_inclass_practice.ipynb)
 - [ ] Take-Home Project:
-- [ ] README
 
 ### Week 8. Deep learning
 
@@ -86,20 +84,17 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 
 ### Week 11. Apriori Algorithm and Association rules
 
-- [ ] In-class Practice:
+- In-class Practice: [week_11_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_11/week_11_inclass_practice.ipynb)
 - [ ] Take-Home Project:
-- [ ] README
 
 ### Week 12.  Natural Language Processing: NLTK introduction
 
 - In-class Practice: [week_12_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_12/week_12_inclass_practice.ipynb)
 - [ ] Take-Home Project:
-- [ ] README
 
 ### Week 13. Vector Representations of Words (Word2Vec Model)
 - In-class Practice: [week_13_inclass_practice.ipynb](https://github.com/kevinkevin556/STASD/blob/master/week_13/week_13_inclass_practice.ipynb)
 - [ ] Take-Home Project:
-- [ ] README
 
 ### Week 15. Encoding Time Series as Images with Gramian Angular Field
 - [ ] In-class Practice:
@@ -114,4 +109,3 @@ All pieces of my project read the dataset from the directory `91APPdataset/`, an
 ## License
 
 This project is licensed under the MIT License - read [LICENSE](https://github.com/kevinkevin556/STASD/blob/master/LICENSE) file for more details.
-
